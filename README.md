@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0485-max-consecutive-ones) |
+| [1441-build-an-array-with-stack-operations](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -15,5 +16,10 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
