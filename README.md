@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0636-exclusive-time-of-functions) |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
