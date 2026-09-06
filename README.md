@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0146-lru-cache) |
 ## Simulation
 |  |
 | ------- |
@@ -30,4 +31,16 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
