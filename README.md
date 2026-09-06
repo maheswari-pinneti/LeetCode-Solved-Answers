@@ -58,6 +58,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
@@ -77,4 +78,16 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0994-rotting-oranges) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
