@@ -16,6 +16,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1441-build-an-array-with-stack-operations) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
