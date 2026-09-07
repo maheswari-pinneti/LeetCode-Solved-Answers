@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0200-number-of-islands) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/maheswari-pinneti/LeetCode-Solved-Answers/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
